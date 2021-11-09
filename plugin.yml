@@ -1,0 +1,14 @@
+authors:
+  - MrDarkness462
+  - reussy
+main: me.mrdarkness462.winstreak.Main
+version: 1.0
+name: BedWars1058-WinStreak
+depend: [ BedWars1058 ]
+softdepend: [ PlaceholderAPI, MVdWPlaceholderAPI, LeaderHeads ]
+
+commands:
+  streak:
+    description: Shows player winstreak
+    aliases: [ streaks ]
+    usage: /<command>
